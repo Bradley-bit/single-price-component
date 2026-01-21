@@ -34,7 +34,7 @@ p {
     background-color: hsl(0, 0%, 100%);
     /* padding: 5px; */
     width: 650px;
-    border-radius: 10px;
+    border-radius: 5px;
     /* padding: 10px; */
 }
 
@@ -53,6 +53,8 @@ p {
     justify-content: space-around;
     padding: 20px 0px;
     background-color: hsl(179, 62%, 43%);
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
     /* gap:100px; */
 }   
 
