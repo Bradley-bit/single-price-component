@@ -42,9 +42,27 @@ p {
     display: flex;
     flex-wrap: wrap;
     justify-content: space-evenly;
-    padding: 50px 0px;
+    padding: 20px 0px;
     background-color: hsl(179, 62%, 43%);
     
+}
+
+.rows h2{
+    margin-bottom: 30px;
+    font-size: 20px;
+}
+span {
+    font-size: 30px;
+}
+.subs :nth-child(3) {
+    margin-top: 10px;
+}
+button {
+    margin-top: 20px;
+    padding: 15px 90px;
+    background-color: hsl(71, 73%, 54%);
+    border-radius: 10px;
+    border: none;
 }
 
 .info {
