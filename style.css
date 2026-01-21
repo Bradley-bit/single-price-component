@@ -11,6 +11,22 @@ body {
     justify-content: center;
     align-items: center;
 }
+/* text color */
+p {
+    color: hsl(218, 22%, 67%);
+}
+
+.heading {
+    color: hsl(179, 62%, 43%);
+}
+
+.sub-heading {
+    color: hsl(71, 73%, 54%);
+}
+
+.rows p {
+    color: hsl(204, 43%, 93%);
+}
 
 .container {
     background-color: hsl(0, 0%, 100%);
