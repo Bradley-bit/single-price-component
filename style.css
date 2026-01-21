@@ -24,25 +24,26 @@ p {
     color: hsl(71, 73%, 54%);
 }
 
-.rows p {
+.rows p, h2, button {
     color: hsl(204, 43%, 93%);
 }
 
 .container {
     background-color: hsl(0, 0%, 100%);
-    padding: 5px;
+    /* padding: 5px; */
     width: 800px;
     border-radius: 10px;
-    padding: 10px;
+    /* padding: 10px; */
 }
 
 .rows {
-    border:1px solid black;
+    /* border:1px solid black; */
     /* width: 600px; */
     display: flex;
     flex-wrap: wrap;
     justify-content: space-evenly;
     padding: 50px 0px;
+    background-color: hsl(179, 62%, 43%);
     
 }
 
