@@ -18,8 +18,8 @@ p {
 
 .heading {
     color: hsl(179, 62%, 43%);
+    margin-bottom: 30px;
 }
-
 .sub-heading {
     color: hsl(71, 73%, 54%);
 }
@@ -35,6 +35,12 @@ p {
     border-radius: 10px;
     /* padding: 10px; */
 }
+
+.header {
+    padding: 30px
+}
+
+
 
 .rows {
     /* border:1px solid black; */
